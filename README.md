@@ -18,14 +18,27 @@ A production-ready React Native authentication app featuring secure credential s
 ### Demo Video
 
 <p align="center">
-  <a href="YOUR_VIDEO_LINK_HERE">
+  <a href="https://drive.google.com/file/d/1a28REZMdE1gh0IM48HsoOhkUPd-6xwN1/view?usp=drive_link">
     <img src="docs/screenshots/home.jpg" width="600" alt="Watch Demo Video" />
   </a>
 </p>
 
-> 📹 **[Watch Full Demo Video](YOUR_VIDEO_LINK_HERE)** - Complete walkthrough of all features
+> 📹 **[Watch Full Demo Video](https://drive.google.com/file/d/1a28REZMdE1gh0IM48HsoOhkUPd-6xwN1/view?usp=drive_link)** - Complete walkthrough of all features
 
-## 🚀 Quick Start
+## 📥 Download & Try
+
+### Android APK (Ready to Install)
+
+> 📱 **[Download Android APK](https://drive.google.com/file/d/1IpU3odqBewPiPCcX6RO5RuHbD6Ed2xCW/view?usp=sharing)** - Install directly on your Android device
+
+**Installation Steps:**
+
+1. Download APK from the link above
+2. Enable "Install from Unknown Sources" in Android settings
+3. Open the APK file and install
+4. Launch the app and start testing!
+
+## 🚀 Quick Start (Development)
 
 ```bash
 # Install dependencies (includes iOS pods)
