@@ -42,7 +42,7 @@ A production-ready React Native authentication app featuring secure credential s
 
 ```bash
 # Install dependencies (includes iOS pods)
-npm run install
+npm run install-dependencies
 
 # Run on iOS
 npm run ios
